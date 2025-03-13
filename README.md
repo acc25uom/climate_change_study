@@ -6,3 +6,5 @@ The numerical results show some clear positive direct and indirect effects of th
 
 This software project has a DOI: 10.5281/zenodo.15013718 .                                                                                                                                       
 The dataset has a DOI: 10.5281/zenodo.15001296 .
+
+More elaborated case studies and software applications by using R language programming and Shiny (R) app programming are available here https://cornar.shinyapps.io/thirdapp/ . The input file required by the Shiny (R) app is Dataset.xlsx.
