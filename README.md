@@ -3,3 +3,5 @@ This programming file (newcalculatedirectandindirecteffect.R) calculates the dir
 In this example, a country from South Asia is used as a case study and a health outcome of the farmer population from that country is available per year between 2010 and 2021.  The country case study comprises 28 country states for which the direct and the indirect effects are calculated.   The status of economy is given by the Gross Domestic Product (GDP)  from agriculture for the period of time 2010 to 2021 and the same country from South-Asia.   The Dataset.xlsx input file is required by the other R file (newcalculatedirectandindirecteffect.R) in order to obtain the results.
 
 The numerical results show some clear positive direct and indirect effects of the climate change on the health outcome when the GDP from agriculture is used as a mediator variable between climate change and health output, which may underline the effects that climate change can have on the agriculture.
+
+This project has a DOI: 10.5281/zenodo.15013718
