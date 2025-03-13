@@ -4,4 +4,5 @@ In this example, a country from South Asia is used as a case study and a health 
 
 The numerical results show some clear positive direct and indirect effects of the climate change on the health outcome when the GDP from agriculture is used as a mediator variable between climate change and health output, which may underline the effects that climate change can have on the agriculture.
 
-This project has a DOI: 10.5281/zenodo.15013718
+This software project has a DOI: 10.5281/zenodo.15013718
+The dataset has also a DOI: 10.5281/zenodo.15001296
