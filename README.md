@@ -1,10 +1,8 @@
-This programming file (newcalculatedirectandindirecteffect.R) calculates the direct and indirect effects of climate change on health and economy by using a multiple linear model.   The climate change can affect the health directly such as through exposure to droughts, dry climate, flooding or spread of infectious diseases, but can also indirectly impact health via economic effects, a relationship complicated by unseen factors that might skew the understanding of the policymakers regardless of whether there are used sophisticated statistical models or machine learning techniques. 
+This research project is funded by Wellcome Trust and it is called "Droughts and Despair: An Innovative Tool for Policy-Makers to Assess Climate Change's Economic Impact on “Diseases of Despair” in Farming Communities".    
+A description of the project and the results and how to run the various software applications are available in the document “Technical Document.docx”.
 
-In this example, a country from South Asia is used as a case study and a health outcome of the farmer population from that country is available per year between 2010 and 2021.  The country case study comprises 28 country states for which the direct and the indirect effects are calculated.   The status of economy is given by the Gross Domestic Product (GDP)  from agriculture for the period of time 2010 to 2021 and the same country from South-Asia.    The 'Dataset.xlsx' input file is required by the other R file (newcalculatedirectandindirecteffect.R) in order to obtain the results.  The numerical results show some clear positive direct and indirect effects of the climate change on the health outcome when the GDP from agriculture is used as a mediator variable between climate change and health output, which may underline the effects that climate change can have on the agriculture.
+The software project (newcalculatedirectandindirecteffect.R) has a DOI: 10.5281/zenodo.15013718 .                                                                                                          
+The dataset (Dataset.xlsx) has also a DOI: 10.5281/zenodo.15001296.
 
-This software project (newcalculatedirectandindirecteffect.R) has a DOI: 10.5281/zenodo.15013718 .                                                                                                          
-The dataset (Dataset.xlsx) has also a DOI: 10.5281/zenodo.15001296 .
 
-More elaborated case studies and software applications by using R language programming and Shiny (R) app programming are available here https://cornar.shinyapps.io/thirdapp/ .   
-The input files required by the Shiny (R) app are 'Dataset.xlsx' and 'Country map.zip'.                                                                                                                      
-A description of the project and the results and how to run the Shiny (R) app are available in the document “Technical Document.docx”.
+
