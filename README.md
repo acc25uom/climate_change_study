@@ -4,6 +4,6 @@ In this example, a country from South Asia is used as a case study and a health 
 
 The numerical results show some clear positive direct and indirect effects of the climate change on the health outcome when the GDP from agriculture is used as a mediator variable between climate change and health output, which may underline the effects that climate change can have on the agriculture.
 
-This software project (newcalculatedirectandindirecteffect.R) has a DOI: 10.5281/zenodo.15013718 .                                                                                                          The dataset (Dataset.xlsx) has a DOI: 10.5281/zenodo.15001296 .
+This software project (newcalculatedirectandindirecteffect.R) has a DOI: 10.5281/zenodo.15013718 .                                                                                                          The dataset (Dataset.xlsx) has also a DOI: 10.5281/zenodo.15001296 .
 
 More elaborated case studies and software applications by using R language programming and Shiny (R) app programming are available here https://cornar.shinyapps.io/thirdapp/ . The input file required by the Shiny (R) app is Dataset.xlsx.  A description of the entire project and the obtained results and about how to run the Shiny (R) app are available in the document “Technical Document.docx”.
