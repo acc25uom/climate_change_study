@@ -8,5 +8,5 @@ This software project (newcalculatedirectandindirecteffect.R) has a DOI: 10.5281
 The dataset (Dataset.xlsx) has also a DOI: 10.5281/zenodo.15001296 .
 
 More elaborated case studies and software applications by using R language programming and Shiny (R) app programming are available here https://cornar.shinyapps.io/thirdapp/ .   
-The input files required by the Shiny (R) app are Dataset.xlsx and 'Country map.zip'.                                                                                                                      
+The input files required by the Shiny (R) app are 'Dataset.xlsx' and 'Country map.zip'.                                                                                                                      
 A description of the project and the results and how to run the Shiny (R) app are available in the document “Technical Document.docx”.
