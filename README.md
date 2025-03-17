@@ -7,4 +7,4 @@ The numerical results show some clear positive direct and indirect effects of th
 This software project (newcalculatedirectandindirecteffect.R) has a DOI: 10.5281/zenodo.15013718 .                                                                                                          
 The dataset (Dataset.xlsx) has also a DOI: 10.5281/zenodo.15001296 .
 
-More elaborated case studies and software applications by using R language programming and Shiny (R) app programming are available here https://cornar.shinyapps.io/thirdapp/ . The input file required by the Shiny (R) app is Dataset.xlsx.  A description of the entire project and the obtained results and about how to run the Shiny (R) app are available in the document “Technical Document.docx”.
+More elaborated case studies and software applications by using R language programming and Shiny (R) app programming are available here https://cornar.shinyapps.io/thirdapp/ . The input files required by the Shiny (R) app are Dataset.xlsx and 'Country map.zip'.   A description of the project and the results and about how to run the Shiny (R) app are available in the document “Technical Document.docx”.
